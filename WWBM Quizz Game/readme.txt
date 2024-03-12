@@ -1,2 +1,2 @@
 Presentation video: 
-https://www.youtube.com/watch?v=rYcM9bShAH4&list=PLCma1j5Hgqtct-faQ8YIU9zQpXMgiIETA&index=14
+https://dragos-vacariu.github.io/CSharp-Projects/VS%20Projects%20GUI/WWBM%20Quizz%20Game/WWBM%20Quizz%20Game.html

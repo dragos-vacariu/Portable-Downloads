@@ -1,5 +1,5 @@
 Presentation Video: 
-https://www.youtube.com/watch?v=uuD_buexn70&list=PLCma1j5Hgqtct-faQ8YIU9zQpXMgiIETA&index=2
+https://dragos-vacariu.github.io/Python-Projects/pyplay%20mp3%20player/PyPlay%20Mp3%20Player.html
 
-Web Page Presentation: 
-https://htmlpreview.github.io/?https://github.com/dragos-vacariu/Html-Projects/blob/master/Web%20Templates/project40%20python%20mp3%20player%20webpage/index.html
+Features Presentation Web Page: 
+https://dragos-vacariu.github.io/Html-Projects/Web%20Templates/project40%20python%20mp3%20player%20webpage/index.html
